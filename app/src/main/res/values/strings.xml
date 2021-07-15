@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wheel Of Fortune</string>
+    <string-array name="range_array">
+        <item>500</item>
+        <item>1000</item>
+        <item>3000</item>
+        <item>5000</item>
+    </string-array>
+</resources>
